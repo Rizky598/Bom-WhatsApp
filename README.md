@@ -12,7 +12,7 @@ Whatsapp Group
 
 grup komunitas hacker
 
-===================================
+==================================
 masukkan aja script yang di bawah untuk script termux😊
 
 # Command In Termux😊
