@@ -1,9 +1,11 @@
 # Bom-WhatsApp
-1:Script termux fairing WhatsApp 🎯💯
+1: Script termux fairing WhatsApp 🎯💯
 
-2:Tools Spam Pairing Whatsapp using Javascript
+2: Tools Spam Pairing Whatsapp using
 
-3:and Nodejs
+3: Javascript
+
+4: and Nodejs
 
 =======≠======≠===================
 <div align="center">
