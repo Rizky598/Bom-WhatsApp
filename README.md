@@ -22,7 +22,7 @@ grup komunitas hacker
 ==================================
 masukkan aja script yang di bawah untuk script termux😊
 
-# :Command In Termux😊
+# Command In Termux😊
 ```
 pkg update && pkg upgrade
 pkg install git
