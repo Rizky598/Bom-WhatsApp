@@ -3,7 +3,7 @@ Script termux fairing WhatsApp 🎯💯
 Tools Spam Pairing Whatsapp using Javascript and Nodejs
 <div align="center">
   <p>
-    <img src="p1.jpg" width="250">
+    <img src="123.jpg" width="255">
     </p>
   
 Whatsapp Group
